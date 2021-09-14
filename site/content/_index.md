@@ -1,6 +1,6 @@
 ---
 title: Mr Beer Head
-subtitle: He reviews beers and draws little pictures of them too
+subtitle: He reviews beers and draws little pictures of them too!
 image: img/mrbeerhead.png
 blurb:
   heading: Who is Mr Beer Head?
