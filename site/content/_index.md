@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Mr Beer Head"
+subtitle: He reviews beers and draws little pictures of them too
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
